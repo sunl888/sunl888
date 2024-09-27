@@ -22,7 +22,14 @@ const Sunlong = {
 
 <p align="left">
 <a href="https://github.com/sunl888">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sunl888&layout=compact&langs_count=10&theme=buefy"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sunl888&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sunl888&layout=compact&langs_count=10&theme=jolly&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sunl888&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+

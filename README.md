@@ -30,5 +30,4 @@ const Sunlong = {
 </a>
 </p>
 
-![暗色](https://github.com/sunl888/sunl888/raw/gh-pages/github-snake-dark.svg?palette=github-dark)
 ![亮色](https://github.com/sunl888/sunl888/raw/gh-pages/github-snake.svg)

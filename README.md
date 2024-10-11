@@ -30,8 +30,5 @@ const Sunlong = {
 </a>
 </p>
 
-
-
-<div align="center">
-  
-![Action生成的提交图](https://github.com/sunl888/sunl888/raw/output/github-contribution-grid-snake.svg)
+![暗色](https://github.com/sunl888/sunl888/raw/gh-pages/github-snake-dark.svg?palette=github-dark)
+![亮色](https://github.com/sunl888/sunl888/raw/gh-pages/github-snake.svg)

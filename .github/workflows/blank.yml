@@ -1,16 +1,13 @@
 name: generate-snake
 on:
-  # 每 12 小时自动运行一次
+  # 每 5 小时自动运行一次
   schedule:
-    - cron: "0 */12 * * *"
- 
+    - cron: "0 */5 * * *"
   # 允许手动触发执行
-  workflow_dispatch:
- 
+  workflow_dispatch: 
   # 每当push到master分支时自动执行
   push:
     branches:
-    - master
     - main
  
 jobs:
